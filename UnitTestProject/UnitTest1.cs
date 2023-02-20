@@ -37,7 +37,7 @@ namespace UnitTestProject1
         {
             Assert.AreEqual(class1.CheckVIN("Z8NAJL00050366"), false);
         }
-        ] [TestMethod]
+        [TestMethod]
         public void Country_Z8NAJL00050J66152()
         {
             Assert.AreEqual(class1.GetVINCountry("X9FMXXEEBMBM38625"), "Азия");
