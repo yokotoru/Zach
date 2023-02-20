@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zach", "Zach\Zach.csproj", "{A14C3CBA-4916-4DF1-A27E-F379EB36C190}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{9F817BEE-238A-4E7A-BE66-1595CF123BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A14C3CBA-4916-4DF1-A27E-F379EB36C190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A14C3CBA-4916-4DF1-A27E-F379EB36C190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A14C3CBA-4916-4DF1-A27E-F379EB36C190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F817BEE-238A-4E7A-BE66-1595CF123BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F817BEE-238A-4E7A-BE66-1595CF123BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F817BEE-238A-4E7A-BE66-1595CF123BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F817BEE-238A-4E7A-BE66-1595CF123BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
